@@ -1,0 +1,1 @@
+export HASSIO_TOKEN=2da24da421ffc2ccbfa5bd56814d54af83805f7a8b7861c8cfe803834ef78d4e
